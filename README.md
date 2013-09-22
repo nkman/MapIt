@@ -1,6 +1,7 @@
 MapIt
 =====
 Find the co-ordinates and address of the cities in getc.py.
+===========================================================
 e.g.
 HP@HPC:/media/$ python getc.py
 northeast lattitude of Roorkee is 29.8983266
@@ -13,6 +14,7 @@ State :- Uttarakhand
 Country :- India
 
 And find address by co-ordinates in gett.py.
+=============================================
 e.g.
 HP@HPC:/media/$ python gett.py
 route :- Prem Mandir Road
